@@ -35,4 +35,5 @@ class Solution(object):
 
         return s[left + 1:right]
 
-#inspired by https://leetcode.com/problems/longest-palindromic-substring/discuss/461877/Cleanest-Python-O(n2)-Time-O(1)-Space-Solution
+# Inspired by https://leetcode.com/problems/longest-palindromic-substring/discuss/461877/Cleanest-Python-O(n2)-Time-O(1)-Space-Solution
+# was close to solving but didn't know how to manage odd/even palindromes 
