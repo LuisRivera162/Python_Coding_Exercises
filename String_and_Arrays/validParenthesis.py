@@ -22,4 +22,4 @@ class Solution(object):
 
         return len(stack) == 0
 
-# Could've used a dictionary for faster time 
+# Could've used a dictionary for faster time
