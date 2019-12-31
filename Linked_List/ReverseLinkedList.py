@@ -6,8 +6,6 @@
 #         self.val = x
 #         self.next = None
 
-import collections
-
 
 class Solution(object):
     def reverseList(self, head):
