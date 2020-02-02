@@ -2,7 +2,7 @@
 
 
 class Solution:
-    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+    def findDisappearedNumbers(self, nums):
         result = []
         num_set = set(nums)
         for i in range(1, len(nums) + 1):
